@@ -1,0 +1,135 @@
+﻿body {
+  -webkit-font-smoothing:antialiased;
+     -moz-font-smoothing:antialiased;
+          font-smoothing:antialiased;
+  -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+          box-sizing:border-box;
+  font-family:'Roboto', 'Arial', sans-serif;
+  font-size:16px;
+  padding-top:100px;
+  background-color:#fff;
+}
+
+/*******************
+ * NAVIGATION
+ *******************/
+
+.menu li {
+  list-style: none;
+  display: block;
+}
+
+
+
+/*******************
+ * HEADER
+ *******************/
+header {
+  position:fixed;
+  z-index:100;
+  top:0;
+  left:0;
+  right:0;
+  padding:10px 0;
+  padding-bottom:5px;
+  /*background-color: #F2F2F2;¨*/
+  border-bottom: 3px solid #3A7CC2;
+  background-color: #4789CF;  /* #4789CF; #5294f7;*/
+  color:#fff;
+}
+
+header a:hover{
+  text-decoration: none;
+  font-weight: bold;
+}
+  header h1 {
+    margin:0;
+    line-height:24px;
+    font-weight:bold;
+    font-size:1.5em;
+    /*color:#4789CF;*/
+    color:#fff;
+    
+  }
+  header h2 {
+    margin:0;
+    line-height:24px;
+    font-size:18px;
+  }
+
+footer {
+  padding:48px 0 96px;
+  line-height:20px;
+  font-size:14px;
+}
+.img-circle{
+  border:2px solid #fff;/**#4789CF;*/
+}
+/*******************
+ * SECTION
+ *******************/
+section {
+  padding:18px 0;
+}
+  section h3 {
+    padding:0 0 8px;
+    line-height:40px;
+    font-weight:bold;
+    font-size:32px;
+    color:#ff5722;
+  }
+  section h4{
+  	font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+  section .lead {
+    font-size:24px;
+  }
+  section p {
+    margin-bottom:1em;
+  }
+  section p small {
+    opacity:0.5;
+  }
+  section a,
+  section a:hover {
+    color: #4789CF; /**#609AD6;*/
+  }
+
+/*******************
+ * INTRO SCREEN
+ *******************/
+.intro-screen,
+.intro-screen header {
+  background-color: #fff;  /* #2D4972; #4789CF;*/
+  /*color:#fff; */
+  border-bottom: 3px solid white;
+}
+  .intro-screen h1,
+  .intro-screen h2,
+  .intro-screen h3 {
+    /*color:#fff; */
+  }
+  .intro-screen a,
+  .intro-screen a:hover {
+    color: #F2C36F; /*#FBCA00;*/
+  }
+  
+  .intro-screen .img-circle{
+  border:2px solid white;
+}
+
+/*******************
+ * TRANSITIONS
+ *******************/
+body,
+header {
+  -webkit-transition:background-color .5s;
+     -moz-transition:background-color .5s;
+          transition:background-color .5s;
+}
+
+
