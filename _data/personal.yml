@@ -1,72 +1,48 @@
-name: Remy Schoppach
+name: R�my Schoppach
 
-label: blabla
+label: Plant physiology - Genetics - Crop Modelling
 
-picture: /img/profile-picture.jpg
+picture: /img/profile_picture.jpg
 
-email: g.lobet@fz-juelich.de
+email: remy.schoppach@gmail.com
 
-phone: 
+phone: +32497/623604
 
 curriculum: https://www.dropbox.com/s/w0tsqv82oc0qm76/cv_g_lobet.pdf
+https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
 
-department: PhytoSYSTEMS
 
-institution: Université de Liège
+institution: >
+	Universit� catholique de Louvain
+	Earth and life insitute
 
 mailing_address: >
-    Bât. B22 Physiologie végétale
-    Quartier Vallée 1
-    Chemin de la Vallée 4
-    4000 Liège 1 
-    Belgium
+    	Croix du Sud 2 bte L7.05.14 
+	1348 Louvain-la-Neuve
+     	Belgium
     
    
 
 profiles:
-  - 
-    network: ImpactStory
-    username:
-    url: https://impactstory.org/u/0000-0002-5883-4572
-  - 
+    - 
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=XHIe6wsAAAAJ&hl=en
+    url: 
   - 
-    network: ORCID
-    username:
-    url: https://orcid.org/0000-0002-5883-4572   
-  -
-    network: Twitter
-    username: guillaumelobet
-    url: http://twitter.com/guillaumelobet/
-  -
     network: Github
-    username: guillaumelobet
-    url: http://github.com/guillaumelobet/   
+    username: Schoppach
+    url: http://github.com/schoppach/   
   -
-    network: Figshare
-    username: 
-    url: http://figshare.com/authors/Guillaume_Lobet/98389       
-  -
-    network: Publons
-    username: 
-    url: http://publons.com/author/207362/guillaume-lobet
+    network: LinkedIn
+    username: R�my schoppach 
+    url: https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
+
 
 intro:
-  title: Bienvenue
+  title: Hi!
   body: >
-    I am an Assistant Professor between the Forschungszentrum Jülich and the Université catholique de Louvain since Sept 2016. More about [my (new) group here](http://www.plantmodelling.xyz).
+    I am a young Post-doc in plant science.
       
-    The aim of my research is (i) to understand how various signals that carry information are interacting and being conveyed and integrated at the plant level and (ii) to amplify discrete physiological knowledge into functional plant processes. All of that using Functional Structural Plant Models.
-      
-    I develop image analysis and phenotyping tools to help researchers in their scientific workflow. And when I am not implementing image analysis tools, I often play with plant models.  
-      
-    Apart from my daily research activity, I love to reference [plant image analysis software](http://www.plant-image-analysis.org) and [funny plant genes names](http://www.toplessninja.tumblr.com).
-    
-    
-    An overview of my research vision can be found [in this presentation](http://bit.ly/lobet-ucl-fzj-2).
-    
+  
 
-    At the moment, I am also a Guest Editor for a [Plant Phenomics serie for the journal GigaScience](https://t.co/mrYQucjBhP).
 
