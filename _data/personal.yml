@@ -8,7 +8,7 @@ email: remy.schoppach@gmail.com
 
 phone: +32497/623604
 
-curriculum: https://www.dropbox.com/s/w0tsqv82oc0qm76/cv_g_lobet.pdf
+curriculum: 
 https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
 
 
@@ -24,10 +24,6 @@ mailing_address: >
    
 
 profiles:
-    - 
-    network: Google Scholar
-    username:
-    url: 
   - 
     network: Github
     username: Schoppach
@@ -35,7 +31,7 @@ profiles:
   -
     network: LinkedIn
     username: Rémy schoppach 
-    url: https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
+    url: > https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
 
 
 intro:
