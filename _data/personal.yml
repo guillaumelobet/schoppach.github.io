@@ -8,31 +8,29 @@ email: remy.schoppach@gmail.com
 
 phone: +32497/623604
 
-curriculum: >
-https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
+curriculum: https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
 
 
 institution: >
-	Université catholique de Louvain
-	Earth and life insitute
+    Université catholique de Louvain
+    Earth and life institute
 
 mailing_address: >
-    	Croix du Sud 2 bte L7.05.14 
-	1348 Louvain-la-Neuve
-     	Belgium
+    Croix du Sud 2 bte L7.05.14 
+    1348 Louvain-la-Neuve
+    Belgium
     
    
 
 profiles:
-  - 
-    network: Github
-    username: Schoppach
-    url: http://github.com/schoppach/   
-  -
-    network: LinkedIn
-    username: Rémy schoppach 
-    url: > 
-https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
+- 
+network: Github
+username: Schoppach
+url: http://github.com/schoppach/   
+-
+network: LinkedIn
+username: Rémy schoppach 
+url: https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
 
 
 intro:
