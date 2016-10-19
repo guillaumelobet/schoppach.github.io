@@ -15,12 +15,6 @@ mailing_address: >
     1348 Louvain-la-Neuve
     Belgium
 
-profiles:
--
-    network: Github
-    username: Schoppach
-    url: http://github.com/schoppach/ 
-
 intro:
   title: Hi!
   body: >
