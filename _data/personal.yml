@@ -2,13 +2,13 @@ name: Remy Schoppach
 
 label: Plant physiology - Genetics - Crop Modelling
 
-picture: /img/profile-picture.JPG
+picture: /img/profile-picture.jpg
 
 email: remy.schoppach@gmail.com
 
 phone: +32497/623604
 
-curriculum: 
+curriculum:>
 https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
 
 
@@ -31,14 +31,12 @@ profiles:
   -
     network: LinkedIn
     username: Rémy schoppach 
-    url: > https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
+    url: > 
+https://www.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
 
 
 intro:
   title: Hi!
   body: >
     I am a young Post-doc in plant science.
-      
-  
-
 
