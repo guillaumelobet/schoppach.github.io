@@ -1,21 +1,21 @@
---- 
-curriculum: "https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf"
-email: remy.schoppach@gmail.com
-institution: "Université catholique de Louvain Earth and life institute\n"
-intro: 
-  body: "I am a young Post-doc in plant science."
-  title: Hi!
-label: "Plant physiology - Genetics - Crop Modelling"
-mailing_address: "Croix du Sud 2 bte L7.05.14  1348 Louvain-la-Neuve Belgium\n"
-name: "Remy Schoppach"
-phone: +32497/623604
+name: Remy Schoppach
+
+label: Plant physiology - Genetics - Crop Modelling
+
 picture: /img/profile-picture.jpg
-profiles: 
-  - 
-    network: Github
-    url: "http://github.com/schoppach/"
-    username: Schoppach
-  - 
-    network: Linkedin
-    url: "https://be.linkedin.com/in/r%C3%A9my-schoppach-a95a48108"
-    username: "Rémy schoppach".
+
+curriculum: https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
+
+institution: >
+    Universit  catholique de Louvain
+    Earth and life institute
+
+mailing_address: >
+    Croix du Sud 2 bte L7.05.14 
+    1348 Louvain-la-Neuve
+    Belgium
+
+intro:
+  title: Hi!
+  body: >
+    I am a young Post-doc in plant science.
