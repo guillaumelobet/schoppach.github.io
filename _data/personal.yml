@@ -7,13 +7,19 @@ picture: /img/profile-picture.jpg
 curriculum: https://www.dropbox.com/s/n6paqbhaji7tl4l/CV_schoppach.pdf
 
 institution: >
-    Universit  catholique de Louvain
+    Université  catholique de Louvain
     Earth and life institute
 
 mailing_address: >
     Croix du Sud 2 bte L7.05.14 
     1348 Louvain-la-Neuve
     Belgium
+
+profiles:
+-
+    network: Github
+    username: Schoppach
+    url: http://github.com/schoppach/ 
 
 intro:
   title: Hi!
