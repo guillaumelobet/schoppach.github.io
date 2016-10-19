@@ -21,13 +21,13 @@ mailing_address: >
 
 profiles:
 - 
-   network: Github
-   username: Schoppach
-   url: http://github.com/schoppach/   
+    network: Github
+    username: Schoppach
+    url: http://github.com/schoppach/   
 -
-   network: Linkedin
-   username: Rémy schoppach 
-   url: https://be.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
+    network: Linkedin
+    username: Rémy schoppach 
+    url: https://be.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
 
 intro:
   title: Hi!
