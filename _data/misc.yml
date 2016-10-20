@@ -1,56 +1,8 @@
-
--
-  name: ImpactStory advisor
-  description: >
-    ImpactStory is a web-based service that allow researchers to create a profile referencing all their research impact. [[My ImpactStory profile]](https://impactstory.org/GuillaumeLobet)
-
 -
   name: Ad hoc referee
   description: >
-    Plant Physiology, PLoS One, Journal of Experimental Botany, Plant and Soil, Functional Plant Biology, Plant Methods, Annals of Botany, Microscopy and Microanalysis, Plant Signaling and Behavior, Journal of Hydrology, Journal of Visualized Experiments. [[My reviewer profile]](https://publons.com/author/207362/guillaume-lobet).
+    Journal of Agronomy and Plant science, Journal of Experimental Botany
 
--
-  name: Guest Editor
-  description: >
-    Invited Guest Editor for the [Plant Phenomics serie](https://t.co/mrYQucjBhP) from GigaScience
-
-
--
-  name: Scientific meeting organisation
-  description: >
-    - Co-organiser
-      - [Roundtable on Emerging technologies for root system imaging and phenotyping, 2015](http://rhizo4.org/roundtables)
-      - [International Workshop on Image Analysis Methods for the Plant Sciences, 2015](http://www.phytosystems.ulg.ac.be/iamps15/)
-      - [EMBO Practical Course, Insights into plant biological processes through phenotyping, 2015](http://events.embo.org/15-plant-phenotyping/)
-    - Program commity member
-      - [Computer Vision Problems in Plant Phenotyping, 2015](http://www.plant-phenotyping.org/CVPPP2015/) 
-      - [Computer Vision Problems in Plant Phenotyping, 2014](http://www.plant-phenotyping.org/CVPPP2014/) 
-      - [National Symposium of Applied Biological Sciences, 2015](http://www.uclouvain.be/nsabs-2015.html)
--
   name: Research advisor
   description: >
-    - 1 PhD student
-    - 6 master theses
-
--
-  name: Teaching
-  description: >
-    - [Root Modelling](http://dx.doi.org/10.6084/m9.figshare.1594792) 
-    
-    - Introduction to LaTeX
-
-    - Introduction to ImageJ
-    
-    - [Science output valorisation](http://dx.doi.org/10.6084/m9.figshare.1057995)
-
-    - Scientifique figures preparation
--
-  name: Website design and creation
-  description: >
-    - [http://www.plant-image-analysis.org/](http://www.plant-image-analysis.org/)
-    
-    - [http://www.phytosystems.ulg.ac.be/](http://www.phytosystems.ulg.ac.be/)
-    
-    - [http://www.flor-id.org](http://www.flor-id.org)
-    
-    - [http://www.phytosystems.ulg.ac.be/iamps15/](http://www.phytosystems.ulg.ac.be/iamps15/)
+    - 2 master theses
