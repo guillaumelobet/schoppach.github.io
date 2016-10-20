@@ -581,7 +581,9 @@ It is threatened by habitat loss.
   <div class="container" id="presentations">
     <div class="row">
       <section class="col-md-9 col-lg-12">
-        
+       {% if site.data.presentations %}
+        <h3>Presentations</h3>
+         {% endif %} 
 
         {% assign counter = 1 %}
         {% for presentation in site.data.presentations %}

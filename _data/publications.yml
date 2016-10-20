@@ -3,7 +3,39 @@
    citations: '48'
    update: '2016-10-20'
 -  type: journal
-   title: Conservative water use under high evaporative demand associated with smaller root metaxylem and limited trans-membrane water transport in wheat. 
+   title: High resolution mapping of traits related to whole-plant transpiration under increasing evaporative demand in wheat
+   authors: Schoppach R, Taylor JD, Majerus E, Claverie E, Baumann U, Suchecki R, Fleury D, Sadok W
+   journal: Functional Plant Biology 
+   volume: 67 
+   year: 2016
+   pages: 2847-2860
+   url: http://jxb.oxfordjournals.org/content/67/9/2847.short
+   image: \img\Fig1.png
+   tags:
+   - Transpiration
+   - VPD
+   - QTL
+   citations: '1'
+   review: no
+   firstauthor: yes
+-  type: journal
+   title: Genotype-dependent influence of night-time vapour pressure deficit on night-time transpiration and daytime gas exchange in wheat
+   authors: Schoppach R, Claverie E, Sadok W
+   journal: Functional Plant Biology 
+   volume: 41 
+   year: 2014
+   pages: 963-971
+   url: http://www.publish.csiro.au/fp/FP14067
+   image: \img\Fig1.png
+   tags:
+   - Night-time TR
+   - VPD
+   - Genetic variability
+   citations: '10'
+   review: no
+   firstauthor: yes
+-  type: journal
+   title: Conservative water use under high evaporative demand associated with smaller root metaxylem and limited trans-membrane water transport in wheat 
    authors: Schoppach R, Wauthelet D,  Jeanguenin L, Sadok W
    journal: Functional Plant Biology 
    volume: 41
@@ -25,15 +57,15 @@
    authors: Schoppach R,  Sadok W
    journal: Functional Plant Biology
    volume: 40
-   year: 2013
+   year: 2014
    pages: 708-718
-   url: http://www.publish.csiro.au/fp/FP14067
+   url: http://www.publish.csiro.au/fp/FP13028 
    image: \img\Fig1.png
    tags:
    - Transpiration
    - VPD
    - Physiology
-   citations: '10'
+   citations: '7'
    review: no
    firstauthor: yes
 
