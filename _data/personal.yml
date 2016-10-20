@@ -25,6 +25,10 @@ profiles:
     username: Schoppach
     url: http://github.com/schoppach/ 
 
+-
+    network: LinkedIn
+    username: Remy Schoppach
+    url: https://be.linkedin.com/in/r%C3%A9my-schoppach-a95a48108
 intro:
   title: Hi!
   body: >

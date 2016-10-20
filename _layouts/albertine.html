@@ -272,9 +272,9 @@ It is threatened by habitat loss.
               {% when 'journal' %}
                 {% assign counter = counter | plus: 1 %}
                 {% assign auths = publication.authors | split:"," %}
-                {% if publication.authors contains 'G*' %}
+                {% if publication.authors contains 'R*' %}
                   {% assign counter2 = counter2 | plus: 1 %}
-                {% elsif auths[0] contains "Lobet"%}
+                {% elsif auths[0] contains "Schoppach"%}
                   {% assign counter2 = counter2 | plus: 1 %}
                 {% endif %}
               {% when 'summary' %}
@@ -335,9 +335,9 @@ It is threatened by habitat loss.
                 <!-------- TAGS -------->
 
                 {% assign auths = publication.authors | split:"," %}
-                {% if publication.authors contains 'G*' %}
+                {% if publication.authors contains 'R*' %}
                     <button type="button" class="btn btn-warning btn-xs"><i class="fa fa-asterisk"></i></button>
-                {% elsif auths[0] contains "Lobet"%}
+                {% elsif auths[0] contains "Schoppach"%}
                     <button type="button" class="btn btn-warning btn-xs"><i class="fa fa-asterisk"></i></button>
                 {% endif %} 
 
