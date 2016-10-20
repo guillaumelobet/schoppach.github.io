@@ -3,6 +3,40 @@
    citations: '48'
    update: '2016-10-20'
 -  type: journal
+   title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
+   authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
+   journal: Journal of Agronomy and Crop science 
+   volume:  
+   year: 2016
+   pages: 
+   url: 
+   image: \img\Fig1.png
+   tags:
+   - Transpiration
+   - VPD
+   - Leaf/Root hydraulics
+   citations: '0'
+   review: no
+   firstauthor: yes
+   Preprint: yes
+
+-  type: journal
+   title: Nighttime evaporative demand induces plasticity in leaf and root hydraulic traits
+   authors: Claverie E, Schoppach R, Sadok W
+   journal: Physiologia plantarum
+   volume: 67 
+   year: 2016
+   pages: 
+   url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
+   image: \img\Fig1.png
+   tags:
+   - Transpiration
+   - VPD
+   - Leaf/Root hydraulics
+   citations: '0'
+   review: no
+   firstauthor: yes
+-  type: journal
    title: High resolution mapping of traits related to whole-plant transpiration under increasing evaporative demand in wheat
    authors: Schoppach R, Taylor JD, Majerus E, Claverie E, Baumann U, Suchecki R, Fleury D, Sadok W
    journal: Functional Plant Biology 
