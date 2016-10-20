@@ -4,7 +4,7 @@
    update: '2016-10-20'
 -  type: journal
    title: Differential sensitivities of transpiration to evaporative demand and soil water deficit among wheat elite cultivars indicate different strategies for drought tolerance.
-   authors: Schoppach, R,  Sadok W
+   authors: Schoppach R,  Sadok W
    journal: Environmental and Experimental 
    volume: 84
    year: 2012
@@ -12,7 +12,10 @@
    url: http://www.sciencedirect.com/science/article/pii/S0098847212001128
    image: C:\Users\schoppach\Documents\Schoppach\schoppach.github.io\img/Fig1.png
    tags:
-   - first author
+   - Transpiration
+   - VPD
+   - Physiology
    citations: '22'
    review: no
+
    
