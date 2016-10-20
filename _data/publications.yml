@@ -14,11 +14,11 @@
    tags:
    - Transpiration
    - VPD
-   - Leaf/Root hydraulics
+   - Genetic varability
    citations: '0'
    review: no
    firstauthor: yes
-   Preprint: yes
+   preprint: yes
 
 -  type: journal
    title: Nighttime evaporative demand induces plasticity in leaf and root hydraulic traits
