@@ -3,6 +3,39 @@
    citations: '48'
    update: '2016-10-20'
 -  type: journal
+   title:  Using a mechanistic simulation model to compare the suitability of rain-fed wheat and barley yields across the Middle-East
+   authors: Schoppach R, Soltani A,  Sinclair TR, Sadok W
+   journal: 
+   volume:  
+   year: 2017
+   pages: 
+   url: 
+   image: \img\Fig1.png
+   tags:
+   - Modelling
+   - Yield
+   - Wheat & Barley
+   citations: '0'
+   review: no
+   preprint: yes
+-  type: journal
+   title:  Pot binding may be common occurrence confounding plant phenotype: Theoretical derivation and experimental 
+   authors: Sinclair TR, Manandhar A, Shekoofa A,  Rosas-Anderson P, Bagherzadi L,  Schoppach R, Sadok W, Rufty T
+   journal: Planta
+   volume:  
+   year: 2017
+   pages: 
+   url: 
+   image: \img\Fig1.png
+   tags:
+   - Pot binding
+   - Transpiration
+   - VPD
+   citations: '0'
+   review: no
+   preprint: yes
+
+-  type: journal
    title: Transpiration sensitivity to evaporative demand across 120 years of breeding of Australian wheat cultivars
    authors: Schoppach R, Fleury D,  Sinclair T,  Sadok W
    journal: Journal of Agronomy and Crop science 
