@@ -10,11 +10,10 @@
    year: 2012
    pages: 1-10
    url: http://www.sciencedirect.com/science/article/pii/S0098847212001128
-   image: img/Fig1.jpg
-   pmid: 27352932
+   image: img/Fig1.png
    tags:
    - root
    - flowering
    citations: '22'
-   review: yes
-   
+   review: no
+   first author: yes
