@@ -3,7 +3,7 @@
    citations: '48'
    update: '2016-10-20'
 -  type: journal
-   title:  Using a mechanistic simulation model to compare the suitability of rain-fed wheat and barley yields across the Middle-East
+   title: Using a mechanistic simulation model to compare the suitability of rain-fed wheat and barley yields across the Middle-East
    authors: Schoppach R, Soltani A,  Sinclair TR, Sadok W
    journal: 
    volume:  
@@ -19,7 +19,7 @@
    review: no
    preprint: yes
 -  type: journal
-   title:  Pot binding may be common occurrence confounding plant phenotype: Theoretical derivation and experimental 
+   title: Pot binding may be common occurrence confounding plant phenotype: Theoretical derivation and experimental observations
    authors: Sinclair TR, Manandhar A, Shekoofa A,  Rosas-Anderson P, Bagherzadi L,  Schoppach R, Sadok W, Rufty T
    journal: Planta
    volume:  
@@ -28,9 +28,9 @@
    url: 
    image: \img\Fig1.png
    tags:
-   - Pot binding
    - Transpiration
    - VPD
+   - Hydraulics
    citations: '0'
    review: no
    preprint: yes
