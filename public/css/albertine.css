@@ -121,7 +121,23 @@ section {
   .intro-screen .img-circle{
   border:2px solid white;
 }
+/*************
+* ASIDE
+**************/
 
+content {
+    float: right;
+    padding: 3%;
+    width: 85%;
+}
+
+aside {
+    float: left;
+    padding: 3%;
+    width: 15%;
+    background-color: #fff;
+    vertical-align: middle;
+}
 /*******************
  * TRANSITIONS
  *******************/
