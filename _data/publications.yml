@@ -10,7 +10,7 @@
    year: 2017
    pages: 
    url: 
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Modelling
    - Yield
@@ -26,7 +26,7 @@
    year: 2017
    pages: 
    url: 
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -43,7 +43,7 @@
    year: 2016
    pages: 
    url: 
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -61,7 +61,7 @@
    year: 2016
    pages: 
    url: http://onlinelibrary.wiley.com/doi/10.1111/ppl.12474/abstract
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -77,7 +77,7 @@
    year: 2016
    pages: 2847-2860
    url: http://jxb.oxfordjournals.org/content/67/9/2847.short
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -93,7 +93,7 @@
    year: 2014
    pages: 963-971
    url: http://www.publish.csiro.au/fp/FP14067
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Night-time TR
    - VPD
@@ -109,7 +109,7 @@
    year: 2014
    pages: 257-269
    url: http://www.publish.csiro.au/fp/FP13211
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -127,7 +127,7 @@
    year: 2014
    pages: 708-718
    url: http://www.publish.csiro.au/fp/FP13028 
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
@@ -144,7 +144,7 @@
    year: 2012
    pages: 1-10
    url: http://www.sciencedirect.com/science/article/pii/S0098847212001128
-   image: \img\Fig1.png
+   image: img/Fig1.png
    tags:
    - Transpiration
    - VPD
